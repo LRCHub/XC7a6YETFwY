@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ハッピーになりたい(2018ver.)",
+  "base_artist": "NANAOAKARI",
+  "createdAt": "2026-03-30T22:06:19.151023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピーになりたい(2018ver.) - 2018ver.",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/01_ハッピーになりたい(2018ver.)_-_2018ver._ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハッピーになりたい(2018ver.)",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/02_ハッピーになりたい(2018ver.)_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハッピーになりたい(2018ver.)",
+      "artist": "Nanawo, Akari",
+      "has_synced": true,
+      "path": "select/03_ハッピーになりたい(2018ver.)_Nanawo,_Akari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハッピーになりたい (2018ver.)",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/04_ハッピーになりたい_(2018ver.)_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハッピーになりたい(2018ver.) - 2018ver.",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/05_ハッピーになりたい(2018ver.)_-_2018ver._NANAOAKARI.lrc"
+    }
+  ]
+}
